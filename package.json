@@ -1,0 +1,22 @@
+{
+  "name": "loveyoulili",
+  "version": "0.0.11",
+  "description": "test npm publish",
+  "main": "index",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuqi0715/npmpackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuqi0715/npmpackage/issues"
+  },
+  "homepage": "https://github.com/liuqi0715/npmpackage#readme"
+}
